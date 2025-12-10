@@ -1,4 +1,10 @@
-**Privacy Policy**
+<style>
+  header, .header, .site-header {
+    display: none !important;
+  }
+</style>
+
+# Privacy Policy
 
 **Last updated:** [December 10, 2025]
 
